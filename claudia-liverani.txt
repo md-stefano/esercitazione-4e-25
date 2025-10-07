@@ -1,0 +1,6 @@
+# Esercitazione 1-Claudia Liverani
+
+Abbiamo clonato questo file con dei passaggi svolti grazie al prompt comandi:
+-Abbiamo digitato cd C:\Users\stud5e\Documenti per entrare nella cartella dove vogliamo salvare il progetto;
+-Abbiamo clonato il repository con git clone https://github.com/clincli/esercitazione-classe.git;
+-Siamo entrati nella cartella del repository con cd esercitazione-classe;
